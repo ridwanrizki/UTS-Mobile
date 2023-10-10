@@ -6,7 +6,7 @@ Jetpack Compose. To learn about how Sunflower was migrated to Compose, see the
 
 **Note**: To see the original View implementation of Sunflower, checkout the [`views`](https://github.com/android/sunflower/tree/views) branch.
 
-## Screenshots
+## Screenshots[ASSETS_LICENSE](ASSETS_LICENSE)
 
 <img src="screenshots/SunflowerM3Screenshots.png"/>
 
