@@ -19,7 +19,7 @@ package com.google.samples.apps.sunflower.ui
 import androidx.compose.ui.graphics.Color
 
 val md_theme_light_primary = Color(0xFF246D00)
-val md_theme_light_onPrimary = Color(0xFFFFFFFF)
+val md_theme_light_onPrimary = Color(0xFF413214)
 val md_theme_light_primaryContainer = Color(0xFFA6F780)
 val md_theme_light_onPrimaryContainer = Color(0xFF062100)
 val md_theme_light_secondary = Color(0xFF55624C)
@@ -34,7 +34,7 @@ val md_theme_light_error = Color(0xFFBA1A1A)
 val md_theme_light_errorContainer = Color(0xFFFFDAD6)
 val md_theme_light_onError = Color(0xFFFFFFFF)
 val md_theme_light_onErrorContainer = Color(0xFF410002)
-val md_theme_light_background = Color(0xFFFDFDF6)
+val md_theme_light_background = Color(0xFFFDF213)
 val md_theme_light_onBackground = Color(0xFF1A1C18)
 val md_theme_light_surface = Color(0xFFFDFDF6)
 val md_theme_light_onSurface = Color(0xFF1A1C18)
